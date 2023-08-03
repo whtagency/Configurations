@@ -5,7 +5,7 @@
 ## 3. `npm i prettier eslint-plugin-prettier eslint-config-prettier eslint-plugin-import --save-dev`
 
 ## 4. Create .prettierrc.json (on same level as package.json) with
-`{ "singleQuote": true, "trailingComma": "none", "endOfLine": "auto" }`
+`{ "singleQuote": true, "trailingComma": "all", "endOfLine": "auto" }`
 
 ## 5. Start rules .eslintrc
 
